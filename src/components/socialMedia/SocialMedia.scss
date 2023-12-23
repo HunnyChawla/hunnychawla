@@ -77,9 +77,11 @@
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
-.kaggle i:hover,
-.medium i:hover {
+.kaggle i:hover {
   background-color: $textColor;
+}
+.medium i:hover{
+  background-color: $mediumHover;
 }
 
 /* Media Query */
