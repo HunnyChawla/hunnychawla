@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/hunnychawla/static/css/main.bb5633de.css",
-    "main.js": "/hunnychawla/static/js/main.cbd56e9e.js",
+    "main.js": "/hunnychawla/static/js/main.126ad941.js",
     "static/css/64.bba8fa55.chunk.css": "/hunnychawla/static/css/64.bba8fa55.chunk.css",
     "static/js/64.e4e995d9.chunk.js": "/hunnychawla/static/js/64.e4e995d9.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/hunnychawla/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.48d0a136.chunk.js": "/hunnychawla/static/js/769.48d0a136.chunk.js",
+    "static/js/769.643d6fe3.chunk.js": "/hunnychawla/static/js/769.643d6fe3.chunk.js",
     "static/media/gal2.jpg": "/hunnychawla/static/media/gal2.53e43d66c08764fdc232.jpg",
     "static/media/gal4.png": "/hunnychawla/static/media/gal4.3bc06251864d01d062b7.png",
     "static/media/gal3.jpg": "/hunnychawla/static/media/gal3.b325656d223a5e491993.jpg",
@@ -29,14 +29,14 @@
     "index.html": "/hunnychawla/index.html",
     "static/media/talksCardBack.svg": "/hunnychawla/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.bb5633de.css.map": "/hunnychawla/static/css/main.bb5633de.css.map",
-    "main.cbd56e9e.js.map": "/hunnychawla/static/js/main.cbd56e9e.js.map",
+    "main.126ad941.js.map": "/hunnychawla/static/js/main.126ad941.js.map",
     "64.bba8fa55.chunk.css.map": "/hunnychawla/static/css/64.bba8fa55.chunk.css.map",
     "64.e4e995d9.chunk.js.map": "/hunnychawla/static/js/64.e4e995d9.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/hunnychawla/static/css/769.b3cbb36b.chunk.css.map",
-    "769.48d0a136.chunk.js.map": "/hunnychawla/static/js/769.48d0a136.chunk.js.map"
+    "769.643d6fe3.chunk.js.map": "/hunnychawla/static/js/769.643d6fe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb5633de.css",
-    "static/js/main.cbd56e9e.js"
+    "static/js/main.126ad941.js"
   ]
 }
