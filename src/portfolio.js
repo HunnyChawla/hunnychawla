@@ -152,16 +152,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "60%" //Insert relative proficiency in percentage
-    },
-    {
       Stack: "Backend",
       progressPercentage: "90%"
     },
     {
       Stack: "Programming",
       progressPercentage: "90%"
+    },
+    {
+      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      progressPercentage: "60%" //Insert relative proficiency in percentage
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -385,7 +385,7 @@ const gallerySection = {
       imageAlt: "Universumm Logo",
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
