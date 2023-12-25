@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03fdf407.css",
-    "main.js": "/static/js/main.10cd3675.js",
+    "main.js": "/static/js/main.b2d6db22.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.e4e995d9.chunk.js": "/static/js/64.e4e995d9.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -10,7 +10,6 @@
     "static/media/gal4.png": "/static/media/gal4.3bc06251864d01d062b7.png",
     "static/media/gal3.jpg": "/static/media/gal3.d146b1f7538dc482ec61.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/ionhackathon.jpg": "/static/media/ionhackathon.aeef4a62ef19e6db777a.jpg",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/icailogo-2.png": "/static/media/icailogo-2.561d9de33316f2969040.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -29,7 +28,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.03fdf407.css.map": "/static/css/main.03fdf407.css.map",
-    "main.10cd3675.js.map": "/static/js/main.10cd3675.js.map",
+    "main.b2d6db22.js.map": "/static/js/main.b2d6db22.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.e4e995d9.chunk.js.map": "/static/js/64.e4e995d9.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -37,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.03fdf407.css",
-    "static/js/main.10cd3675.js"
+    "static/js/main.b2d6db22.js"
   ]
 }
