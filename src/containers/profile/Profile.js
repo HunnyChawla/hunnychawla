@@ -16,13 +16,14 @@ export default function Profile() {
   useEffect(() => {
     if (openSource.showGithubProfile === "true") {
       const getProfileData = () => {
-        fetch("/profile.json")
+        fetch("/hunnychawla/profile.json")
           .then(result => {
             if (result.ok) {
               return result.json();
             }
           })
           .then(response => {
+            console.log(response)
             setProfileFunction(response.data.user);
           })
           .catch(function (error) {
